@@ -6,3 +6,5 @@
 3-FizzBuzz Numbers.
 
 4-Numpy-Pandas Assignment.
+
+5-Statistics Assignment.
