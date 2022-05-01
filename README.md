@@ -5,6 +5,6 @@
 
 3-FizzBuzz Numbers.
 
-4-Numpy-Pandas Assignment.
+4-Numpy-Pandas Basics Assignment.
 
 5-Statistics Assignment.
