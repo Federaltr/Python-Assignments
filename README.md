@@ -9,4 +9,6 @@
 
 5-Statistics Assignment.
 
-6-
+6-Time Management Interview(with Pandas)
+
+7-
