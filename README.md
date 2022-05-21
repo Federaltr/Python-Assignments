@@ -4,7 +4,7 @@
   *Numpy-Pandas Basics
   *Pandas
   *TimeManagementInterview(w/Pandas)
-  *
+  *DataVisualization(wMatplotlib)
   *
 
 2-Armstrong Number.
