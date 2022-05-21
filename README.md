@@ -5,7 +5,7 @@
   *Pandas
   *TimeManagementInterview(w/Pandas)
   *DataVisualization(wMatplotlib)
-  *
+  *DataVisualization(wSeaborn)
 
 2-Armstrong Number.
 
