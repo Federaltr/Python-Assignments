@@ -11,3 +11,4 @@
   **Armstrong Number
   **FizzBuzz Numbers.
   **Ebob-Ekok
+  **Factorial
